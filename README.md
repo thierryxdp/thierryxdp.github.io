@@ -1,4 +1,4 @@
-[Link](https://observablehq.com/d/5ce9eead24163433)
+[Observable](https://observablehq.com/d/5ce9eead24163433)
 
 ## Welcome to GitHub Pages
 
